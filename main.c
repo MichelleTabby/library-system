@@ -1,3 +1,11 @@
+/*-------------------
+Project:Library management system
+Author:Michelle Wambui
+Compiler:gcc
+Language: C
+Licence:MIT
+Date:15/10/2021
+---------------------*/
 #include <stdio.h>
 #include <stdlib.h>
 
